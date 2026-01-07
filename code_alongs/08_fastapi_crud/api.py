@@ -48,3 +48,7 @@ async def update_book(updated_book: Book):
             books[i] = updated_book
 
     return updated_book
+
+
+# ----------------------- DELETE -----------------------
+
